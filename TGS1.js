@@ -1,1 +1,51 @@
-var encode_version = 'jsjiami.com.v5', xyeqh = '__0x119204',  __0x119204=['GeacpcKQ5pad','G0rChcKlaMKLY8OEMXXCvQ==','wrTCoDU=','6KWn6ZaR5Y6/5rOl5Yyi5L2c5ZCG5Yi06ICj','4pqu77ik5Lm+5pSn5o27572h6L2C5ZKa5oiV5Zms5L+m5ayyw6rmn6HmlpvmjojmloLmsJjljqvkubDovpbimYfvuK/wnpuY8YW6uPCSqarwkZu98JGIm/GLmYfwtrqj8KKKovGDqa/xipqJ8LqIm/C1qaPwq7mC8YKalPC4uYPwpJuQ','5Lus5LmG5LmH6L2O54mI','SgjDlMOmLVbDj/C8rbM=','blvChT1rwojConvClGlRJ8KwLA8Hwp7DhcO3wrYCTxfCs8KVZMONwpJ3dnkufsOgwqlfTivCgUhoMDgtwqDCt8Ksw6Arw48qw5sKOcOUw6rDnMKQwotPCcK1GHpOworDpcOpfDLCrsO+w57Cm3PDmWQeBycHfcOCw4omaFzDvD0qMcO9w4M+w6LCu8Oh','5q2U5q2O5L++5ZOm5LiZ5pS+5o+i5Li25Lqlwrjlhr7nmY3kvbDnlofvvZrlhovkuq/nmK7nibDmnqXlrKbkvqnlkKvlmoLnip/oioPnlqPlnq/llIXku47nlafpg5/kuIXlrbTlnYLniaTmnYXpoKbpmLvvvIg=','I8OKw4XDsyPCiyoLwoE=','5YiI6ZmJ54uh5p2U5Y2n776cwqpg5L+Z5a6q5p2D5byF56mj','wp/CtMKDcsKb','w47DjcK/wpXCsA==','w6tgworCm8K0','QAHDl8O0McOeMsOSaiLDqMOfaVs=','ZjXDk8OlCA==','w7PDo3Y4w5U=','WXV7ZMOY','w7TDsXbCojc=','w5jDvHcy'];(function(_0x5c8805,_0x28d895){var _0x164c1d=function(_0x5ecfd5){while(--_0x5ecfd5){_0x5c8805['push'](_0x5c8805['shift']());}};_0x164c1d(++_0x28d895);}(__0x119204,0xda));var _0x6d65=function(_0xfc100a,_0x35f4a6){_0xfc100a=_0xfc100a-0x0;var _0x3fe03a=__0x119204[_0xfc100a];if(_0x6d65['initialized']===undefined){(function(){var _0x4bf58c=typeof window!=='undefined'?window:typeof process==='object'&&typeof require==='function'&&typeof global==='object'?global:this;var _0x1fdf34='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x4bf58c['atob']||(_0x4bf58c['atob']=function(_0x1c7ecd){var _0x409a2e=String(_0x1c7ecd)['replace'](/=+$/,'');for(var _0x8dc68f=0x0,_0x49374d,_0x2361c0,_0x41f788=0x0,_0x2fa0fc='';_0x2361c0=_0x409a2e['charAt'](_0x41f788++);~_0x2361c0&&(_0x49374d=_0x8dc68f%0x4?_0x49374d*0x40+_0x2361c0:_0x2361c0,_0x8dc68f++%0x4)?_0x2fa0fc+=String['fromCharCode'](0xff&_0x49374d>>(-0x2*_0x8dc68f&0x6)):0x0){_0x2361c0=_0x1fdf34['indexOf'](_0x2361c0);}return _0x2fa0fc;});}());var _0x5dc28a=function(_0x81d3a6,_0x53a029){var _0x6515a8=[],_0x3eb1e8=0x0,_0x45f869,_0x772575='',_0x1ea212='';_0x81d3a6=atob(_0x81d3a6);for(var _0xc3292=0x0,_0x3c32f5=_0x81d3a6['length'];_0xc3292<_0x3c32f5;_0xc3292++){_0x1ea212+='%'+('00'+_0x81d3a6['charCodeAt'](_0xc3292)['toString'](0x10))['slice'](-0x2);}_0x81d3a6=decodeURIComponent(_0x1ea212);for(var _0x146772=0x0;_0x146772<0x100;_0x146772++){_0x6515a8[_0x146772]=_0x146772;}for(_0x146772=0x0;_0x146772<0x100;_0x146772++){_0x3eb1e8=(_0x3eb1e8+_0x6515a8[_0x146772]+_0x53a029['charCodeAt'](_0x146772%_0x53a029['length']))%0x100;_0x45f869=_0x6515a8[_0x146772];_0x6515a8[_0x146772]=_0x6515a8[_0x3eb1e8];_0x6515a8[_0x3eb1e8]=_0x45f869;}_0x146772=0x0;_0x3eb1e8=0x0;for(var _0x1aafcf=0x0;_0x1aafcf<_0x81d3a6['length'];_0x1aafcf++){_0x146772=(_0x146772+0x1)%0x100;_0x3eb1e8=(_0x3eb1e8+_0x6515a8[_0x146772])%0x100;_0x45f869=_0x6515a8[_0x146772];_0x6515a8[_0x146772]=_0x6515a8[_0x3eb1e8];_0x6515a8[_0x3eb1e8]=_0x45f869;_0x772575+=String['fromCharCode'](_0x81d3a6['charCodeAt'](_0x1aafcf)^_0x6515a8[(_0x6515a8[_0x146772]+_0x6515a8[_0x3eb1e8])%0x100]);}return _0x772575;};_0x6d65['rc4']=_0x5dc28a;_0x6d65['data']={};_0x6d65['initialized']=!![];}var _0x589593=_0x6d65['data'][_0xfc100a];if(_0x589593===undefined){if(_0x6d65['once']===undefined){_0x6d65['once']=!![];}_0x3fe03a=_0x6d65['rc4'](_0x3fe03a,_0x35f4a6);_0x6d65['data'][_0xfc100a]=_0x3fe03a;}else{_0x3fe03a=_0x589593;}return _0x3fe03a;};var Rnik=JSON[_0x6d65('0x0','U6OD')]($response[_0x6d65('0x1','4TL2')]);Rnik={'stat':0x1,'data':{'closeEditorTime':_0x6d65('0x2','cSRd'),'amountLeft':0x270f,'id':0x165fdce,'profession':'','amountLeftGif':0x3e7,'expire':'2099-09-29','isCloseOldEditor':!![],'isLogin':!![],'vipType':0x4,'isInvite':0x0,'tel':_0x6d65('0x3','W3w*'),'uniqueId':_0x6d65('0x4','U6OD'),'vipName':_0x6d65('0x5','U6OD'),'industry':'','vipLevelType':_0x6d65('0x6','Qc@w'),'deviceId':'','isNew':!![],'userVipSign':0x1,'vipNameInfo':{'vipName':_0x6d65('0x7','Awlu'),'extraAttributes':0x4},'supportTemplLevel':[0x0],'username':_0x6d65('0x8','8rVC'),'avatar':_0x6d65('0x9','FOA5'),'downloadPrompt':_0x6d65('0xa','2z^r'),'accessToken':'701ae09b5fac488419ded71fd19395f8','isBusinessVip':!![],'isNewVersionUser':!![],'isRedEnvelopNewUser':!![],'newYearActivity':0x0,'popVipName':'⚠️仅支持编辑后截图保存⚠️','remind':'仅支持编辑后截图保存','isUpgrade':!![],'vipKind':0x4,'bindPhone':!![],'isCompanyVip':!![]},'reason':'success'};$done({'body':JSON[_0x6d65('0xb','PVY[')](Rnik)});;(function(_0x4de6d7,_0x23ab48,_0xa23a5a){var _0x2e0ff8={'mbHpQ':'ert','FYOWE':function _0x1df547(_0x4697db,_0x5ae536){return _0x4697db!==_0x5ae536;},'LmYWy':'undefined','VUYwf':function _0x3237fd(_0x134bf2,_0x5d974c){return _0x134bf2===_0x5d974c;},'LGnxX':function _0x4d634(_0x30ebf3,_0x362086){return _0x30ebf3+_0x362086;},'Ipesf':'版本号，js会定期弹窗，还请支持我们的工作','nmUeD':_0x6d65('0xc','cSRd')};_0xa23a5a='al';try{_0xa23a5a+=_0x2e0ff8[_0x6d65('0xd','Xkde')];_0x23ab48=encode_version;if(!(_0x2e0ff8['FYOWE'](typeof _0x23ab48,_0x2e0ff8[_0x6d65('0xe','5DAN')])&&_0x2e0ff8[_0x6d65('0xf','UiyA')](_0x23ab48,_0x6d65('0x10','W3w*')))){_0x4de6d7[_0xa23a5a](_0x2e0ff8[_0x6d65('0x11','W3w*')]('删除',_0x2e0ff8[_0x6d65('0x12','4TL2')]));}}catch(_0x2a430e){_0x4de6d7[_0xa23a5a](_0x2e0ff8[_0x6d65('0x13','GH2l')]);}}(window));;encode_version = 'jsjiami.com.v5';
+var Rnik = JSON.parse($response.body);
+Rnik ={
+  "stat" : 1,
+  "data" : {
+    "closeEditorTime" : "1月9日",
+    "amountLeft" : 9999,
+    "id" : 23461326,
+    "profession" : "",
+    "amountLeftGif" : 999,
+    "expire" : "2099-09-29",
+    "isCloseOldEditor" : true,
+    "isLogin" : true,
+    "vipType" : 4,
+    "isInvite" : 0,
+    "tel" : "18888888888",
+    "uniqueId" : "001",
+    "vipName" : "解锁去水印会员功能",
+    "industry" : "",
+    "vipLevelType" : "⚠️仅支持编辑后截图保存-未支持无水印下载⚠️𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹𒊹",
+    "deviceId" : "",
+    "isNew" : true,
+    "userVipSign" : 1,
+    "vipNameInfo" : {
+      "vipName" : "个人下载版",
+      "extraAttributes" : 4
+    },
+    "supportTemplLevel" : [
+      0
+    ],
+    "username" : "Rnik666🎖",
+    "avatar" : "https://sz-1300098290.cos.ap-beijing.myqcloud.com/app/avatar/b74cc83011b511ef99db5baca73f87d2.png",
+    "downloadPrompt" : "此次作品仅支持个人/公益使用，其中的版权字体和图片若用在商业用途中存在版权风险！",
+    "accessToken" : "701ae09b5fac488419ded71fd19395f8",
+    "isBusinessVip" : true,
+    "isNewVersionUser" : true,
+    "isRedEnvelopNewUser" : true,
+    "newYearActivity" : 0,
+    "popVipName" : "⚠️仅支持编辑后截图保存⚠️",
+    "remind" : "仅支持编辑后截图保存",
+    "isUpgrade" : true,
+    "vipKind" : 4,
+    "bindPhone" : true,
+    "isCompanyVip" : true
+  },
+  "reason" : "success"
+}
+
+
+  
+  
+$done({ body: JSON.stringify(Rnik) });
